@@ -1,6 +1,6 @@
 # Assignment
 
-- [Getting started](#getting-started)
+- [Setup](#setup)
 - [Testing Your Code](#testing-your-code)
   - [Submitting On Time](#submitting-on-time)
   - [playground.js](#playgroundjs)
@@ -8,7 +8,7 @@
 - [Questions](#questions)
   - [Question 1:](#question-1)
 
-## Getting started
+## Setup
 
 For guidance on setting up and submitting this assignment, refer to the Marcy lab School Docs How-To guide for [Working with Short Response and Coding Assignments](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/how-tos/working-with-assignments#how-to-work-on-assignments).
 
