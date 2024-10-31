@@ -12,6 +12,14 @@
 
 For guidance on setting up and submitting this assignment, refer to the Marcy lab School Docs How-To guide for [Working with Short Response and Coding Assignments](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/how-tos/working-with-assignments#how-to-work-on-assignments).
 
+After cloning your repository, make sure to run the following commands:
+
+```sh
+npm i
+git checkout -b draft
+npm t
+```
+
 ## Testing Your Code
 
 ### Submitting On Time
